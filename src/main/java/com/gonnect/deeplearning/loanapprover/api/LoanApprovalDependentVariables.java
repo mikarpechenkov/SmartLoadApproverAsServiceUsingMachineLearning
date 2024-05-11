@@ -25,6 +25,4 @@ public class LoanApprovalDependentVariables implements Serializable {
     private String bad_loan = "";
     private String longest_credit_length = "";
     private String verification_status = "";
-
-
 }

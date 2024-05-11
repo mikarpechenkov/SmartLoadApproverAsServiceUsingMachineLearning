@@ -19,6 +19,5 @@ public class LoanApprovalPrediction implements Serializable {
 
     public void addClassProbability(Double classProbability) {
         classProbabilities.add(classProbability);
-
     }
 }
